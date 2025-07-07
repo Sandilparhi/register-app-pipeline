@@ -37,4 +37,4 @@ Explore the code and contribute to the project:
 
 Let's connect and discuss DevSecOps  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paras-kumar-7285931a2/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandil-parhi-9755b3109/)  
